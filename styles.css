@@ -1,0 +1,37 @@
+body{
+    background-color: silver;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 200px;
+    background: url(../images/laif-193.jpg);
+}
+
+form{
+    display: flex;
+    flex-direction:column;
+    max-width: 200px;
+    margin:auto;
+    align-items:flex-end;
+}
+
+input, button{
+    margin-bottom:10px;
+    padding:10px;
+    font-size: large;
+    text-align: right;
+}
+
+button{
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+.Login{
+    color: chartreuse;
+}
