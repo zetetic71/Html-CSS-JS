@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zetetium</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" type="image.png" href="/images/icon_naruto.png"/>
+</head>
+<body>
+
+    <header>
+        <div class="wrap">
+            <a class="logo" href="#"><img src="/images/logoNaruto.jpg" alt="logoNaruto"></a>
+            <ul class="nav">
+                <li><a href="#" text="Movies">Movie</a></li>
+                <li><a href="#" text="Serials">Serials</a></li>
+                <li><a href="#" text="Cooking">Cooking</a></li>
+                <li><a href="#" text="Web development">Web development</a></li>
+                <li><a href="#" text="Anime">Anime</a></li>
+                <li><a href="#" text="Sport">Sport</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        
+    </main>
+
+    <footer>
+
+    </footer>
+ 
+</body>
+</html>
